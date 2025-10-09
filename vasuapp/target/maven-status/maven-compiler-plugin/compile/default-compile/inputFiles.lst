@@ -1,0 +1,7 @@
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/repository/BookingRepository.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/model/CustomerDetailForm.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/controller/MainController.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/entities/CustomerDetailEntity.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/VasuApplication.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/config/MvcConfigurer.java
+/home/ubuntu/apps/myrepo/vasuapp/src/main/java/com/vasu/service/BookingService.java

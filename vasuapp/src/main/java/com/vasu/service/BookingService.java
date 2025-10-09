@@ -29,10 +29,10 @@ public class BookingService {
 	@Transactional(readOnly = false)
 	public Long bookCarWash(CustomerDetailForm customerDetailForm) throws ParseException {
 		Long mobileNumber;
-		String senderMailAddress = "vikaskapadiya808@gmail.com";
-		String senderPassword = "Spring@8857";
+		String senderMailAddress = "vikaj808@gmail.com";
+		String senderPassword = "pitj pzec jnrp npaj";
 
-		String reciepientMailAddress = "vikaj808@gmail.com";
+		String reciepientMailAddress = "kajalvasu2000@gmail.com";
 
 		try {
 			CustomerDetailEntity customerDetailEntity = new CustomerDetailEntity();

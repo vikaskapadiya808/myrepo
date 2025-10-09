@@ -1,8 +1,7 @@
 package com.vasu.controller;
 
 import java.text.ParseException;
-
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
